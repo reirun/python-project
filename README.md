@@ -1,7 +1,9 @@
 # Task 4: Personal Loan Marketing Campaign Analysis
 
 **Course:** Python for Data Science: a Crash Course 
+
 **Instructor:** Khalil El Mahrsi
+
 **Authors:** Timothée Freyermuth, Loïs Ngo 
 
 ## Overview
